@@ -7,7 +7,70 @@
     <list default="true" id="c7435334-fa31-4518-b231-447828aff99c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-0/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-0/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-0/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-0/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-0/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-1/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-1/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-1/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-1/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-1/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-10/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-10/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-10/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-10/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-10/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-11/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-11/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-11/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-11/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-11/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-12/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-12/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-12/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-12/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-12/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-13/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-13/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-13/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-13/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-13/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-14/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-14/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-14/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-14/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-14/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-15/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-15/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-15/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-15/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-15/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-2/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-2/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-2/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-2/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-2/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-3/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-3/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-3/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-3/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-3/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-4/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-4/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-4/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-4/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-4/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-5/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-5/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-5/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-5/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-5/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-6/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-6/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-6/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-6/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-6/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-7/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-7/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-7/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-7/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-7/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-8/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-8/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-8/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-8/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-8/OPTIONS-000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-9/000002.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-9/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-9/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-9/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-data/helloworld-data/node1/MacBook-Pro-2.local/00000000000000000001/logdb-9/OPTIONS-000003" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +87,19 @@
   <component name="KubernetesApiPersistence">
     <option name="context" value="minikube" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="24BgfPZdCsbtp0DHluGyPQqW5Yw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />

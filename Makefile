@@ -16,6 +16,12 @@ GOCMD=go build -v
 
 all: helloworld
 
+
+docker: GOCMD = CGO_ENABLED=0 GOOS=linux go build -v
+docker: helloworld
+	@docker build -t rhzx3519/helloworld:dragonboat .
+	@docker push rhzx3519/helloworld:dragonboat
+
 helloworld:
 	$(GOCMD) -o helloworld github.com/rhzx3519/dragonboat-practice/v1/internal/app/helloworld
 
