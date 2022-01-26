@@ -17,9 +17,9 @@ GOCMD=go build -v
 all: helloworld
 
 helloworld:
-	$(GOCMD) -o helloworld github.com/lni/dragonboat-example/v3/helloworld
+	$(GOCMD) -o helloworld github.com/rhzx3519/dragonboat-practice/v1/internal/app/helloworld
 
 clean:
-	@rm -f example-helloworld example-multigroup example-ondisk example-optimistic-write-lock
+	@rm -f helloworld
 
-.PHONY: helloworld multigroup ondisk optimistic-write-lock clean
+.PHONY: helloworld clean
